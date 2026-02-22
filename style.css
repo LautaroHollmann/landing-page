@@ -102,9 +102,9 @@ a {
 .cards {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: baseline;
     gap: 48px;
-    padding-bottom: 52px;
+    padding-bottom: 42px;
 }
 
 .element {
